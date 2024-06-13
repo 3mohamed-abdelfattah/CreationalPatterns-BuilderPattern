@@ -11,10 +11,10 @@ The Builder Pattern is another important design pattern within the creational pa
 3. **Step-by-Step Construction:** Provides a clear process for constructing objects step by step.
 
 ## UML Diagram
-![Builder Pattern UML](https://github.com/3mohamed-abdelfattah/Creational-Patterns---Singleton-Pattern/assets/142848460/12345678-1234-1234-1234-123456789012)
+![Singleton Pattern UML](https://github.com/3mohamed-abdelfattah/Creational-Patterns---Singleton-Pattern/assets/142848460/891c82f2-52d8-4ae3-94ef-004e0680ef73)
 
 ## UML Class Diagram
-![image](https://github.com/3mohamed-abdelfattah/Creational-Patterns---Singleton-Pattern/assets/142848460/23456789-2345-2345-2345-234567890123)
+![image](https://github.com/3mohamed-abdelfattah/CreationalPatterns-BuilderPattern/assets/142848460/fbe56780-a53b-49df-a98d-78979c459662)
 
 ## Benefits of Builder Pattern
 
